@@ -1,6 +1,6 @@
-# Task. Introduction to TypeScript
+# Introduction to TypeScript
 
-## ACCEPTANCE CRITERIA
+## Task - Acceptance criteria
 
 ### As part of the homework for Module 1, you need to install and configure the development environment. All detailed steps are described in topics 3-5.
 
