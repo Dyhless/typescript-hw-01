@@ -14,4 +14,4 @@
 It should be ready if you already started installing and configuring the environment while studying the module. In this case, you do not need to repeat these steps.
 
 **For the assignment to be successfully credited, you must send your tutor a link to your repository for verification.**
-...
+..
